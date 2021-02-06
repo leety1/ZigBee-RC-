@@ -4,6 +4,13 @@
 카메라를 통한 사람이 가기 어려운 지역을 가서 영상을 볼 수 있으며,지진이나 해일 자연재해 현장에서 사람이 다가가기 제한된 지역에 위치를 파악해 인명구조를 위해 사용될 수 있다.  
 현재 위험지역에 사람이 직접적으로 가는 경우가 많은데 이로 인한 인명피해가 생길 경우가 많다.   
 이를 해결하고자 인명피해를 줄이는 방향으로 그림을 그리며 이를 토대로 만들기로 하였다.    
+자세한 내용은 word파일에 적어놓았다.  
+![image](https://user-images.githubusercontent.com/58061933/107110293-14e10980-688a-11eb-9025-9391f4674bdf.png)
+![image](https://user-images.githubusercontent.com/58061933/107110298-1d394480-688a-11eb-8859-0ca8fa022048.png)
+![image](https://user-images.githubusercontent.com/58061933/107110303-24f8e900-688a-11eb-970e-d0202fef4cad.png)
+![image](https://user-images.githubusercontent.com/58061933/107110307-2fb37e00-688a-11eb-9a20-cb308a52c527.png)
+
+
 
    
 
